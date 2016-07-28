@@ -1,0 +1,164 @@
+banner.swf Informe de película
+-------------------------------
+
+Fotograma #    Fotograma Bytes    Total Bytes    Escena
+-----------    ---------------    -----------    -----------------
+      1          30689          30689    Escena 1 (Fotograma de exportación para clases de AS 2.0)
+      2             12          30701    
+      3             12          30713    
+      4             12          30725    
+      5             12          30737    
+      6             12          30749    
+      7             12          30761    
+      8             12          30773    
+      9             12          30785    
+     10             12          30797    
+     11             12          30809    
+     12             12          30821    
+     13             12          30833    
+     14             12          30845    
+     15             12          30857    
+     16             12          30869    
+     17             12          30881    
+     18             12          30893    
+     19             12          30905    
+     20             12          30917    
+     21             12          30929    
+     22          16707          47636    
+     23             28          47664    
+     24             28          47692    
+     25             28          47720    
+     26             28          47748    
+     27             28          47776    
+     28             28          47804    
+     29             28          47832    
+     30             28          47860    
+     31             21          47881    
+     32          21978          69859    
+     33             33          69892    
+     34             33          69925    
+     35             33          69958    
+     36             33          69991    
+     37             33          70024    
+     38             33          70057    
+     39             33          70090    
+     40             33          70123    
+     41             33          70156    
+     42             33          70189    
+     43             33          70222    
+     44             33          70255    
+     45             33          70288    
+     46             33          70321    
+     47             33          70354    
+     48             33          70387    
+     49             33          70420    
+     50             33          70453    
+     51             33          70486    
+     52             28          70514    
+     53             28          70542    
+     54             28          70570    
+     55             28          70598    
+     56             28          70626    
+     57             28          70654    
+     58             28          70682    
+     59             28          70710    
+     60             28          70738    
+     61             23          70761    
+     62             22          70783    
+     63             23          70806    
+     64             23          70829    
+     65             23          70852    
+     66             41          70893    
+     67             39          70932    
+     68             39          70971    
+     69             39          71010    
+     70             39          71049    
+     71             39          71088    
+     72             39          71127    
+     73             39          71166    
+     74             39          71205    
+     75             39          71244    
+     76             39          71283    
+     77             39          71322    
+     78             39          71361    
+     79             39          71400    
+     80             39          71439    
+     81             39          71478    
+     82             25          71503    
+     83             17          71520    
+     84             17          71537    
+     85             17          71554    
+     86             17          71571    
+     87             17          71588    
+     88             17          71605    
+     89             17          71622    
+     90             17          71639    
+     91             17          71656    
+     92             17          71673    
+     93             17          71690    
+     94             17          71707    
+     95             12          71719    
+     96             17          71736    
+
+Escena                        Forma Bytes    Texto Bytes    ActionScript Bytes
+--------------------------    -----------    -----------    ------------------
+Escena 1                               0             0                     0
+
+Símbolo                       Forma Bytes    Texto Bytes    ActionScript Bytes
+--------------------------    -----------    -----------    ------------------
+effectSymbol_13                        0             0                     0
+Transición 6                          0             0                     0
+Animar 18                              0             0                     0
+Animar 17                              0             0                     0
+effectSymbol_12                        0             0                     0
+Transformar 4                          0             0                     0
+Animar 16                              0             0                     0
+Animar 15                              0             0                     0
+effectSymbol_11                        0             0                     0
+Transformar 1                          0             0                     0
+Animar 14                              0             0                     0
+Animar 13                              0             0                     0
+effectSymbol_10                        0             0                     0
+Transformar 19                         0             0                     0
+effectSymbol_9                         0             0                     0
+Transición 18                         0             0                     0
+Animar 12                              0             0                     0
+Animar 11                              0             0                     0
+effectSymbol_8                         0             0                     0
+Transformar 11                         0             0                     0
+effectSymbol_7                         0             0                     0
+Transición 10                         0             0                     0
+Animar 10                              0             0                     0
+Animar 9                               0             0                     0
+effectSymbol_6                         0             0                     0
+Transformar 9                          0             0                     0
+effectSymbol_5                         0             0                     0
+Transición 8                          0             0                     0
+Animar 8                               0             0                     0
+Animar 7                               0             0                     0
+effectSymbol_4                         0             0                     0
+Transición 7                          0             0                     0
+Animar 6                               0             0                     0
+Animar 5                               0             0                     0
+effectSymbol_3                         0             0                     0
+Transformar 6                          0             0                     0
+effectSymbol_2                         0             0                     0
+Transición 5                          0             0                     0
+Animar 4                               0             0                     0
+Animar 3                               0             0                     0
+effectSymbol_1                         0             0                     0
+Transición 4                          0             0                     0
+effectSymbol                           0             0                     0
+Transformar 3                          0             0                     0
+Animar 2                               0             0                     0
+Animar 1                               0             0                     0
+
+Mapa de bits                     Comprimido    Compresión
+-----------------------------    ----------  --------  ----------
+vibros                         30586      255024   JPEG importado=102
+cables                         16624      220416   JPEG importado=102
+tendido                        21885      189600   JPEG importado=102
+
+
+
+
